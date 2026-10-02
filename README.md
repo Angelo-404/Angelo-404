@@ -28,7 +28,8 @@ cosa fanno, come sono costruiti e come li ho verificati.
   di tutti i 7.897 comuni, 81 test. [Provalo online](https://calcolatore-ral-netto.vercel.app/).
 
 Ho fatto anche siti per attività locali, come quelli di [DJ Victor](https://djvictor.netlify.app/) e
-[Remember Eventi](https://remembereventi.netlify.app/).
+[Remember Eventi](https://remembereventi.netlify.app/), e [House Scroller](https://house-scroller.vercel.app/), un
+prototipo di sito per imprese edili.
 
 ## Tecnologie
 
@@ -36,7 +37,8 @@ React, TypeScript, Next.js, React Native (Expo), Supabase e PostgreSQL, Cloudfla
 
 ## Cosa cerco
 
-Un primo ruolo da sviluppatore web junior, tester (QA) o analista funzionale, meglio se legato alla produzione o ai
-cantieri. A Bologna e provincia, ibrido in Emilia-Romagna, da remoto in tutta Italia.
+Un primo ruolo da sviluppatore web junior, tester (QA), analista funzionale o nell'implementazione di gestionali,
+meglio se legato alla produzione o ai cantieri. A Bologna e provincia, ibrido in Emilia-Romagna, da remoto in tutta Italia.
 
-[LinkedIn](https://www.linkedin.com/in/angelo-di-maso-49503619a/) · [Sito e progetti](https://angelodimaso.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/angelo-di-maso-49503619a/) · [Sito e CV](https://angelodimaso.vercel.app/) ·
+Angelogpt@outlook.it
