@@ -4,7 +4,7 @@ Sviluppatore web junior a Bologna. Ho passato dieci anni nel metalmeccanico, gli
 Fanuc: lì ho imparato a leggere un disegno tecnico, a controllare un prototipo prima che vada in produzione e a
 coordinare una squadra con le scadenze addosso. Da novembre 2025 sviluppo software a tempo pieno.
 
-Lavoro con Claude Code. Il codice lo genera l'AI, io lo dirigo e lo controllo: scrivo le specifiche con i casi limite
+Sviluppo con l'assistenza dell'AI. Il codice lo genera l'AI, io lo dirigo e lo controllo: scrivo le specifiche con i casi limite
 prima di cominciare, porto avanti un compito alla volta con git, faccio girare i controlli automatici e attacco i
 permessi del database con uno script per vedere se qualcuno riesce a leggere dati che non gli spettano. Il passo
 successivo che cerco è imparare a leggere quel codice riga per riga dentro un team.
@@ -34,6 +34,7 @@ prototipo di sito per imprese edili.
 ## Tecnologie
 
 React, TypeScript, Next.js, React Native (Expo), Supabase e PostgreSQL, Cloudflare, Git.
+Per lo sviluppo assistito: Claude Code, Gemini, ChatGPT/Codex.
 
 ## Cosa cerco
 
